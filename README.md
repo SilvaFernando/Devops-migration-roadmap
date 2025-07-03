@@ -1,8 +1,8 @@
 # 🚀 DevOps Migration Roadmap
 
-Este repositório documenta minha jornada de transição para a área de **DevOps**, com foco em oportunidades **internacionais (remotas, em dólar/euro)**.
+Este repositório documenta minha jornada de transição para a área de **DevOps**.
 
-📌 **Objetivo**: Tornar-me DevOps Engineer até [DATA], com domínio em práticas modernas, cloud, automação e CI/CD.
+📌 **Objetivo**: Tornar-me DevOps Engineer até 06/2026, com domínio em práticas modernas, cloud, automação e CI/CD.
 
 🔍 **Perfil atual**: Analista de Infraestrutura com experiência em Linux, Docker, CI/CD e automações.
 
@@ -14,7 +14,7 @@ Você pode ver o checklist completo aqui: [CHECKLIST.md](./CHECKLIST.md)
 
 - [x] Fundamentos de Linux
 - [x] Docker e CI/CD
-- [ ] Infraestrutura como Código
+- [X] Infraestrutura como Código
 - [ ] Kubernetes
 - [ ] Monitoramento e Logs
 - [ ] Perfil Internacional
