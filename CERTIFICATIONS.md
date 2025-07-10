@@ -1,7 +1,7 @@
 # 🎓 Certificações DevOps Planejadas
 
 ## 1. AWS Certified Solutions Architect – Associate (SAA)
-- Status: [ ] Não iniciado
+- Status: [ ] Em progresso
 - Recursos: AWS Skill Builder, ExamTopics, Whizlabs
 - Sera usado a playlist https://www.youtube.com/watch?v=YuWObS-fMvo&list=PLK2b5y9F1DqaTWBrcxKMdwChTOAOBiksx&index=5 para estudar para a certificação
 
