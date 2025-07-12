@@ -13,6 +13,7 @@ Este repositório documenta minha jornada de transição para a área de **DevOp
 Você pode ver o checklist completo aqui: [CHECKLIST.md](./CHECKLIST.md)
 
 - [x] Fundamentos de Linux
+- [x] AWS - Basico (EC2, VPC, ECS, etc)
 - [x] Docker e CI/CD
 - [X] Infraestrutura como Código
 - [ ] Kubernetes
@@ -25,7 +26,7 @@ Você pode ver o checklist completo aqui: [CHECKLIST.md](./CHECKLIST.md)
 ## 📅 Progresso Semanal
 
 Registros semanais da minha evolução estão disponíveis na pasta [progress/](./progress).
-
+Focado na Aws Cloud Practitioner CLF-CO2
 ---
 
 ## 📚 Recursos de Estudo
