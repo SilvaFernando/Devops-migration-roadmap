@@ -26,6 +26,7 @@ Você pode ver o checklist completo aqui: [CHECKLIST.md](./CHECKLIST.md)
 ## 📅 Progresso Semanal
 
 Registros semanais da minha evolução estão disponíveis na pasta [progress/](./progress).
+
 Focado na Aws Cloud Practitioner CLF-CO2
 ---
 
